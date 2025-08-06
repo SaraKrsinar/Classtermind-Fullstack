@@ -1,0 +1,43 @@
+<div class="container mt-4">
+  <h2 class="mb-4">Add New Subject</h2>
+
+  <form (ngSubmit)="submit()" #subjectForm="ngForm" class="needs-validation" novalidate>
+    <div class="mb-3">
+      <label class="form-label">Name</label>
+      <input type="text" class="form-control" [(ngModel)]="subject.name" name="name" required>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Description</label>
+      <textarea class="form-control" [(ngModel)]="subject.description" name="description"></textarea>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Weekly Classes</label>
+      <input type="number" class="form-control" [(ngModel)]="subject.weeklyClasses" name="weeklyClasses">
+    </div>
+
+    <div class="form-check mb-3">
+      <input type="checkbox" class="form-check-input" [(ngModel)]="subject.isMandatory" name="isMandatory" id="mandatoryCheck">
+      <label class="form-check-label" for="mandatoryCheck">Mandatory</label>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Credits</label>
+      <input type="number" class="form-control" [(ngModel)]="subject.credits" name="credits">
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">Literature</label>
+      <div class="input-group">
+        <input type="text" class="form-control" [(ngModel)]="literatureInput" name="literatureInput">
+        <button type="button" class="btn btn-outline-secondary" (click)="addBook()">Add Book</button>
+      </div>
+      <ul class="list-group mt-2">
+        <li class="list-group-item" *ngFor="let book of subject.literature">{{ book }}</li>
+      </ul>
+    </div>
+
+    <button type="submit" class="btn btn-primary" [disabled]="!subjectForm.form.valid">Submit</button>
+  </form>
+</div>

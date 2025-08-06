@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "external",
+    "Name": "Biology",
+    "Description": "Study of living organisms",
+    "WeeklyClasses": 3,
+    "IsMandatory": false,
+    "Credits": 4,
+    "Literature": [
+      "Campbell Biology",
+      "Human Anatomy Notes"
+    ]
+  },
+  {
+    "$type": "external",
+    "Name": "History",
+    "Description": "World History Overview",
+    "WeeklyClasses": 2,
+    "IsMandatory": false,
+    "Credits": 3,
+    "Literature": [
+      "World History Textbook",
+      "Documentary Reviews"
+    ]
+  },
+  {
+    "$type": "external",
+    "Name": "New Subject",
+    "Description": "Some Description TEST TEST",
+    "WeeklyClasses": 5,
+    "IsMandatory": true,
+    "Credits": 5,
+    "Literature": [
+      "Book1",
+      "Book 2"
+    ]
+  }
+]

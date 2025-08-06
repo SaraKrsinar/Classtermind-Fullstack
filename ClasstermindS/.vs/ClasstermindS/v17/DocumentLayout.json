@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC8E7D9-E858-46D2-99F2-F1EA91903631}|ClasstermindS.WebApi\\ClasstermindS.WebApi.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.webapi\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC8E7D9-E858-46D2-99F2-F1EA91903631}|ClasstermindS.WebApi\\ClasstermindS.WebApi.csproj|solutionrelative:classterminds.webapi\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2780380C-2B65-4E8A-925C-667F6F3427D8}|ClasstermindS.Infrastructure\\ClasstermindS.Infrastructure.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.infrastructure\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2780380C-2B65-4E8A-925C-667F6F3427D8}|ClasstermindS.Infrastructure\\ClasstermindS.Infrastructure.csproj|solutionrelative:classterminds.infrastructure\\repositories\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990B0C5E-634B-45F6-ABB3-3A06E87EF13D}|ClasstermindS.Application\\ClasstermindS.Application.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.application\\interfaces\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990B0C5E-634B-45F6-ABB3-3A06E87EF13D}|ClasstermindS.Application\\ClasstermindS.Application.csproj|solutionrelative:classterminds.application\\interfaces\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990B0C5E-634B-45F6-ABB3-3A06E87EF13D}|ClasstermindS.Application\\ClasstermindS.Application.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.application\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990B0C5E-634B-45F6-ABB3-3A06E87EF13D}|ClasstermindS.Application\\ClasstermindS.Application.csproj|solutionrelative:classterminds.application\\interfaces\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990B0C5E-634B-45F6-ABB3-3A06E87EF13D}|ClasstermindS.Application\\ClasstermindS.Application.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.application\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990B0C5E-634B-45F6-ABB3-3A06E87EF13D}|ClasstermindS.Application\\ClasstermindS.Application.csproj|solutionrelative:classterminds.application\\services\\subjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2780380C-2B65-4E8A-925C-667F6F3427D8}|ClasstermindS.Infrastructure\\ClasstermindS.Infrastructure.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.infrastructure\\data\\subjectscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2780380C-2B65-4E8A-925C-667F6F3427D8}|ClasstermindS.Infrastructure\\ClasstermindS.Infrastructure.csproj|solutionrelative:classterminds.infrastructure\\data\\subjectscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990B0C5E-634B-45F6-ABB3-3A06E87EF13D}|ClasstermindS.Application\\ClasstermindS.Application.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990B0C5E-634B-45F6-ABB3-3A06E87EF13D}|ClasstermindS.Application\\ClasstermindS.Application.csproj|solutionrelative:classterminds.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990B0C5E-634B-45F6-ABB3-3A06E87EF13D}|ClasstermindS.Application\\ClasstermindS.Application.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.application\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990B0C5E-634B-45F6-ABB3-3A06E87EF13D}|ClasstermindS.Application\\ClasstermindS.Application.csproj|solutionrelative:classterminds.application\\dtos\\subjectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7264177D-CA71-4D40-A7D0-31731414E218}|ClasstermindS.Domain\\ClasstermindS.Domain.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.domain\\entities\\basesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7264177D-CA71-4D40-A7D0-31731414E218}|ClasstermindS.Domain\\ClasstermindS.Domain.csproj|solutionrelative:classterminds.domain\\entities\\basesubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7264177D-CA71-4D40-A7D0-31731414E218}|ClasstermindS.Domain\\ClasstermindS.Domain.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.domain\\entities\\predefinedsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7264177D-CA71-4D40-A7D0-31731414E218}|ClasstermindS.Domain\\ClasstermindS.Domain.csproj|solutionrelative:classterminds.domain\\entities\\predefinedsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7264177D-CA71-4D40-A7D0-31731414E218}|ClasstermindS.Domain\\ClasstermindS.Domain.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.domain\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7264177D-CA71-4D40-A7D0-31731414E218}|ClasstermindS.Domain\\ClasstermindS.Domain.csproj|solutionrelative:classterminds.domain\\entities\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7264177D-CA71-4D40-A7D0-31731414E218}|ClasstermindS.Domain\\ClasstermindS.Domain.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.domain\\interfaces\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7264177D-CA71-4D40-A7D0-31731414E218}|ClasstermindS.Domain\\ClasstermindS.Domain.csproj|solutionrelative:classterminds.domain\\interfaces\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC8E7D9-E858-46D2-99F2-F1EA91903631}|ClasstermindS.WebApi\\ClasstermindS.WebApi.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC8E7D9-E858-46D2-99F2-F1EA91903631}|ClasstermindS.WebApi\\ClasstermindS.WebApi.csproj|solutionrelative:classterminds.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7264177D-CA71-4D40-A7D0-31731414E218}|ClasstermindS.Domain\\ClasstermindS.Domain.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.domain\\entities\\externalsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7264177D-CA71-4D40-A7D0-31731414E218}|ClasstermindS.Domain\\ClasstermindS.Domain.csproj|solutionrelative:classterminds.domain\\entities\\externalsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC8E7D9-E858-46D2-99F2-F1EA91903631}|ClasstermindS.WebApi\\ClasstermindS.WebApi.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.webapi\\subjects.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FC8E7D9-E858-46D2-99F2-F1EA91903631}|ClasstermindS.WebApi\\ClasstermindS.WebApi.csproj|solutionrelative:classterminds.webapi\\subjects.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC8E7D9-E858-46D2-99F2-F1EA91903631}|ClasstermindS.WebApi\\ClasstermindS.WebApi.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.webapi\\classterminds.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7FC8E7D9-E858-46D2-99F2-F1EA91903631}|ClasstermindS.WebApi\\ClasstermindS.WebApi.csproj|solutionrelative:classterminds.webapi\\classterminds.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Sara\\source\\repos\\ClasstermindS\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC8E7D9-E858-46D2-99F2-F1EA91903631}|ClasstermindS.WebApi\\ClasstermindS.WebApi.csproj|c:\\users\\sara\\source\\repos\\classterminds\\classterminds.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7FC8E7D9-E858-46D2-99F2-F1EA91903631}|ClasstermindS.WebApi\\ClasstermindS.WebApi.csproj|solutionrelative:classterminds.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "ClasstermindS.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T10:21:21.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Application\\Interfaces\\ISubjectRepository.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Application\\Interfaces\\ISubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Application\\Interfaces\\ISubjectRepository.cs",
+              "RelativeToolTip": "ClasstermindS.Application\\Interfaces\\ISubjectRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:00:13.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Application\\Interfaces\\ISubjectService.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Application\\Interfaces\\ISubjectService.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Application\\Interfaces\\ISubjectService.cs",
+              "RelativeToolTip": "ClasstermindS.Application\\Interfaces\\ISubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:31:41.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Application\\Services\\SubjectService.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Application\\Services\\SubjectService.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Application\\Services\\SubjectService.cs",
+              "RelativeToolTip": "ClasstermindS.Application\\Services\\SubjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:33:03.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubjectsContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Infrastructure\\Data\\SubjectsContext.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Infrastructure\\Data\\SubjectsContext.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Infrastructure\\Data\\SubjectsContext.cs",
+              "RelativeToolTip": "ClasstermindS.Infrastructure\\Data\\SubjectsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:39:27.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Infrastructure\\Repositories\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Infrastructure\\Repositories\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Infrastructure\\Repositories\\SubjectRepository.cs",
+              "RelativeToolTip": "ClasstermindS.Infrastructure\\Repositories\\SubjectRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:38:40.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.WebApi\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.WebApi\\Controllers\\SubjectsController.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.WebApi\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "ClasstermindS.WebApi\\Controllers\\SubjectsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:39:57.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubjectDto.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Application\\DTOs\\SubjectDto.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Application\\DTOs\\SubjectDto.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Application\\DTOs\\SubjectDto.cs",
+              "RelativeToolTip": "ClasstermindS.Application\\DTOs\\SubjectDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:31:18.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseSubject.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Domain\\Entities\\BaseSubject.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Domain\\Entities\\BaseSubject.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Domain\\Entities\\BaseSubject.cs",
+              "RelativeToolTip": "ClasstermindS.Domain\\Entities\\BaseSubject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:06:37.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PredefinedSubject.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Domain\\Entities\\PredefinedSubject.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Domain\\Entities\\PredefinedSubject.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Domain\\Entities\\PredefinedSubject.cs",
+              "RelativeToolTip": "ClasstermindS.Domain\\Entities\\PredefinedSubject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:06:58.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Domain\\Entities\\Subject.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Domain\\Entities\\Subject.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Domain\\Entities\\Subject.cs",
+              "RelativeToolTip": "ClasstermindS.Domain\\Entities\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:06:46.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Domain\\Interfaces\\ISubject.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Domain\\Interfaces\\ISubject.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Domain\\Interfaces\\ISubject.cs",
+              "RelativeToolTip": "ClasstermindS.Domain\\Interfaces\\ISubject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:07:38.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.WebApi\\Program.cs",
+              "RelativeToolTip": "ClasstermindS.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T16:40:30.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExternalSubject.cs",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Domain\\Entities\\ExternalSubject.cs",
+              "RelativeDocumentMoniker": "ClasstermindS.Domain\\Entities\\ExternalSubject.cs",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.Domain\\Entities\\ExternalSubject.cs",
+              "RelativeToolTip": "ClasstermindS.Domain\\Entities\\ExternalSubject.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T17:07:09.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "subjects.json",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.WebApi\\subjects.json",
+              "RelativeDocumentMoniker": "ClasstermindS.WebApi\\subjects.json",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.WebApi\\subjects.json",
+              "RelativeToolTip": "ClasstermindS.WebApi\\subjects.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T18:52:47.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClasstermindS.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.WebApi\\ClasstermindS.WebApi.http",
+              "RelativeDocumentMoniker": "ClasstermindS.WebApi\\ClasstermindS.WebApi.http",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.WebApi\\ClasstermindS.WebApi.http",
+              "RelativeToolTip": "ClasstermindS.WebApi\\ClasstermindS.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-05T18:54:17.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\README.txt",
+              "RelativeDocumentMoniker": "README.txt",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\README.txt",
+              "RelativeToolTip": "README.txt",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-05T20:55:43.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ClasstermindS.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sara\\source\\repos\\ClasstermindS\\ClasstermindS.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ClasstermindS.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T18:54:22.866Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+<div class="container mt-4">
+  <h2>Subject Details</h2>
+
+  <div *ngIf="isLoading" class="alert alert-info">Loading...</div>
+  <div *ngIf="errorMessage" class="alert alert-danger">{{ errorMessage }}</div>
+
+  <div *ngIf="subject">
+    <div class="card mt-3">
+      <div class="card-body">
+        <h3 class="card-title">{{ subject.name }}</h3>
+        <p class="card-text"><strong>Description:</strong> {{ subject.description }}</p>
+        <p class="card-text"><strong>Weekly Classes:</strong> {{ subject.weeklyClasses }}</p>
+        <p class="card-text"><strong>Mandatory:</strong> {{ subject.isMandatory ? 'Yes' : 'No' }}</p>
+        <p class="card-text"><strong>Credits:</strong> {{ subject.credits }}</p>
+
+        <p class="card-text"><strong>Literature:</strong></p>
+        <ul class="list-group">
+          <li class="list-group-item" *ngFor="let book of subject.literature">{{ book }}</li>
+        </ul>
+
+        <div class="mt-4">
+          <h5>Study Plan</h5>
+          <p class="text-muted">Based on {{ availableHours }} available hours per week</p>
+          <p class="alert alert-secondary">{{ studyPlan }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mt-3 shadow-sm position-relative">
+    <div class="back-button-container">
+      <button (click)="goBackToSubjects()" class="btn btn-secondary">
+        Go back
+      </button>
+    </div>
+  </div>
+</div>
